@@ -29,5 +29,9 @@ Here are some ideas to get you started:
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
+![](https://raw.githubusercontent.com/compass149/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/compass149/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/compass149/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/compass149/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
