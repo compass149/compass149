@@ -34,8 +34,4 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/compass149/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/compass149/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-![Eunho's GitHub stats](https://github-readme-stats.vercel.app/api?username=compass149&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=compass149&layout=compact)
-
-
 
